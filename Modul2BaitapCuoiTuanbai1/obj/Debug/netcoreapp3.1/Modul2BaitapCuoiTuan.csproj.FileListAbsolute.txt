@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\bin\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.exe
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\bin\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.deps.json
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\bin\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.runtimeconfig.json
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\bin\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\bin\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.dll
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\bin\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.pdb
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\obj\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\obj\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\obj\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\obj\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\obj\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.dll
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\obj\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.pdb
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\Modul2BaitapCuoiTuan\obj\Debug\netcoreapp3.1\Modul2BaitapCuoiTuan.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\bin\Debug\netcoreapp3.1\baitapcuoituanbai2.exe
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\bin\Debug\netcoreapp3.1\baitapcuoituanbai2.deps.json
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\bin\Debug\netcoreapp3.1\baitapcuoituanbai2.runtimeconfig.json
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\bin\Debug\netcoreapp3.1\baitapcuoituanbai2.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\bin\Debug\netcoreapp3.1\baitapcuoituanbai2.dll
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\bin\Debug\netcoreapp3.1\baitapcuoituanbai2.pdb
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\obj\Debug\netcoreapp3.1\baitapcuoituanbai2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\obj\Debug\netcoreapp3.1\baitapcuoituanbai2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\obj\Debug\netcoreapp3.1\baitapcuoituanbai2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\obj\Debug\netcoreapp3.1\baitapcuoituanbai2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\obj\Debug\netcoreapp3.1\baitapcuoituanbai2.dll
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\obj\Debug\netcoreapp3.1\baitapcuoituanbai2.pdb
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\baitapcuoituanbai2\baitapcuoituanbai2\obj\Debug\netcoreapp3.1\baitapcuoituanbai2.genruntimeconfig.cache
