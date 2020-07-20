@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\bin\Debug\netcoreapp3.1\SearchAndSortDemo.exe
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\bin\Debug\netcoreapp3.1\SearchAndSortDemo.deps.json
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\bin\Debug\netcoreapp3.1\SearchAndSortDemo.runtimeconfig.json
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\bin\Debug\netcoreapp3.1\SearchAndSortDemo.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\bin\Debug\netcoreapp3.1\SearchAndSortDemo.dll
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\bin\Debug\netcoreapp3.1\SearchAndSortDemo.pdb
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\obj\Debug\netcoreapp3.1\SearchAndSortDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\obj\Debug\netcoreapp3.1\SearchAndSortDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\obj\Debug\netcoreapp3.1\SearchAndSortDemo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\obj\Debug\netcoreapp3.1\SearchAndSortDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\obj\Debug\netcoreapp3.1\SearchAndSortDemo.dll
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\obj\Debug\netcoreapp3.1\SearchAndSortDemo.pdb
+C:\Users\Administrator\source\repos\Modul2BaitapCuoiTuan\SearchAndSortDemo\SearchAndSortDemo\obj\Debug\netcoreapp3.1\SearchAndSortDemo.genruntimeconfig.cache
