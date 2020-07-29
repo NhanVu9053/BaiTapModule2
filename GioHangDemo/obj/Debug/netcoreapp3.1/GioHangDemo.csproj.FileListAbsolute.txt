@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\bin\Debug\netcoreapp3.1\GioHangDemo.exe
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\bin\Debug\netcoreapp3.1\GioHangDemo.deps.json
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\bin\Debug\netcoreapp3.1\GioHangDemo.runtimeconfig.json
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\bin\Debug\netcoreapp3.1\GioHangDemo.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\bin\Debug\netcoreapp3.1\GioHangDemo.dll
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\bin\Debug\netcoreapp3.1\GioHangDemo.pdb
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\obj\Debug\netcoreapp3.1\GioHangDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\obj\Debug\netcoreapp3.1\GioHangDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\obj\Debug\netcoreapp3.1\GioHangDemo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\obj\Debug\netcoreapp3.1\GioHangDemo.dll
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\obj\Debug\netcoreapp3.1\GioHangDemo.pdb
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\obj\Debug\netcoreapp3.1\GioHangDemo.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\obj\Debug\netcoreapp3.1\GioHangDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JSonDemo\GioHang\GioHangDemo\GioHangDemo\obj\Debug\netcoreapp3.1\GioHangDemo.csproj.CopyComplete
